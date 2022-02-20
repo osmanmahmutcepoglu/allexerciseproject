@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8eab9fb-4f6d-4851-b494-e138def36835": {
+      "ProjectGuid": "d8eab9fb-4f6d-4851-b494-e138def36835",
+      "DisplayName": "PatikaWeekFour",
+      "ColorIndex": 0
+    },
+    "566e35a0-e996-496a-a3e9-cd89e8646879": {
+      "ProjectGuid": "566e35a0-e996-496a-a3e9-cd89e8646879",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

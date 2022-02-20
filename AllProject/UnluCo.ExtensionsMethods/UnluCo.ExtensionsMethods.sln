@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnluCo.ExtensionsMethods", "UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods.csproj", "{BB22C7E8-298B-474A-AFB6-48CCF154DFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB22C7E8-298B-474A-AFB6-48CCF154DFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB22C7E8-298B-474A-AFB6-48CCF154DFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB22C7E8-298B-474A-AFB6-48CCF154DFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB22C7E8-298B-474A-AFB6-48CCF154DFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E883E065-7F5F-4764-A67F-F489C8DCEB96}
+	EndGlobalSection
+EndGlobal

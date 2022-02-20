@@ -1,0 +1,16 @@
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\bin\Debug\net5.0\UnluCo.ExtensionsMethods.exe
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\bin\Debug\net5.0\UnluCo.ExtensionsMethods.deps.json
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\bin\Debug\net5.0\UnluCo.ExtensionsMethods.runtimeconfig.json
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\bin\Debug\net5.0\UnluCo.ExtensionsMethods.runtimeconfig.dev.json
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\bin\Debug\net5.0\UnluCo.ExtensionsMethods.dll
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\bin\Debug\net5.0\ref\UnluCo.ExtensionsMethods.dll
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\bin\Debug\net5.0\UnluCo.ExtensionsMethods.pdb
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\obj\Debug\net5.0\UnluCo.ExtensionsMethods.csproj.AssemblyReference.cache
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\obj\Debug\net5.0\UnluCo.ExtensionsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\obj\Debug\net5.0\UnluCo.ExtensionsMethods.AssemblyInfoInputs.cache
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\obj\Debug\net5.0\UnluCo.ExtensionsMethods.AssemblyInfo.cs
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\obj\Debug\net5.0\UnluCo.ExtensionsMethods.csproj.CoreCompileInputs.cache
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\obj\Debug\net5.0\UnluCo.ExtensionsMethods.dll
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\obj\Debug\net5.0\ref\UnluCo.ExtensionsMethods.dll
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\obj\Debug\net5.0\UnluCo.ExtensionsMethods.pdb
+C:\Users\lce_b\source\repos\UnluCo.ExtensionsMethods\UnluCo.ExtensionsMethods\obj\Debug\net5.0\UnluCo.ExtensionsMethods.genruntimeconfig.cache
